@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mārcis, also known as @MKCxlly.
+- 👋 Hi, I’m Mārcis, also known as @MKCxlly. I am 21 years old.
 - Currently working as a full time Civil engineering Assistant project manager.
 - I also study Civil engineering at Riga Technical university.
 - I have learnt to program C++ while at school, lost interest for a while and now have picked up programming yet again, though through a different approach.
